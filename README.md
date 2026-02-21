@@ -1,3 +1,14 @@
+How to:
+    cd test_technique_qa
+    npm i
+    npx cypress open
+
+
+
+
+
+
+Plan de test
 1. Portée
 - Pages concernées :
 

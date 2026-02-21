@@ -1,7 +1,7 @@
-How to:
-    cd test_technique_qa
-    npm i
-    npx cypress open
+- How to:
+    - cd test_technique_qa
+    - npm i
+    - npx cypress open
 
 
 

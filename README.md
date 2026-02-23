@@ -1,7 +1,7 @@
 - How to:
     - cd test_technique_qa
     - npm i
-    - npx cypress open
+    - npx cypress run --spec "cypress/e2e/buy/buy.feature"
 
 
 
